@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #8aa8ca !important;
+		background-color: #1e252d;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -314,7 +314,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgba(163, 207, 246, 0.843);
+		background: rgba(220, 220, 220, 0.25);
 		border-color: #eeeeee;
 	}
 
@@ -4427,7 +4427,7 @@ input, select, textarea {
 		}
 
 		#copyright code {
-			background: rgba(179, 211, 253, 0.741);
+			background: rgba(255, 255, 255, 0.075);
 			border-color: #ffffff;
 		}
 
